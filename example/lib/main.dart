@@ -3,7 +3,7 @@ import 'dart:math';
 
 import 'package:google_api_headers/google_api_headers.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_google_places_autocomplete/flutter_google_places_autocomplete.dart';
+import 'package:google_places_flutter_api/google_places_flutter_api.dart';
 import 'package:flutter_google_maps_webservices/places.dart';
 
 const kGoogleApiKey = "API_KEY";

@@ -2,8 +2,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:google_api_headers/google_api_headers.dart';
 import 'package:flutter_google_maps_webservices/places.dart';
+import 'package:google_api_headers/google_api_headers.dart';
 import 'package:http/http.dart';
 import 'package:rxdart/rxdart.dart';
 
@@ -355,9 +355,9 @@ class AppBarPlacesAutoCompleteTextFieldState
 
 class PoweredByGoogleImage extends StatelessWidget {
   static const _poweredByGoogleWhite =
-      "packages/flutter_google_places_autocomplete/assets/google_white.png";
+      "packages/google_places_flutter_api/assets/google_white.png";
   static const _poweredByGoogleBlack =
-      "packages/flutter_google_places_autocomplete/assets/google_black.png";
+      "packages/google_places_flutter_api/assets/google_black.png";
 
   const PoweredByGoogleImage({super.key});
 

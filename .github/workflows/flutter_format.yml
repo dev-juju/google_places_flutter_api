@@ -1,5 +1,5 @@
 
-name: Code analysis & formatting
+name: Analysis & formatting
 
 on:
   push:

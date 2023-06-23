@@ -7,7 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_google_places_autocomplete:
+  google_places_flutter_api:
     path: ../
 
 dev_dependencies:

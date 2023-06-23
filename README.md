@@ -1,10 +1,9 @@
-# flutter_google_places_autocomplete
+# google_places_flutter_api
 
-<p align="center">
-<a href="https://github.com/dev-juju/flutter_google_places_autocomplete/actions?query=workflow%3ADart"><img src="https://github.com/dev-juju/flutter_google_places_autocomplete/workflows/Dart/badge.svg?branch=master" alt="Build Status"></a>
-<a href="https://codecov.io/gh/dev-juju/flutter_google_places_autocomplete"><img src="https://codecov.io/gh/dev-juju/flutter_google_places_autocomplete/branch/master/graph/badge.svg" alt="codecov"></a>
-<a href="https://github.com/dev-juju/flutter_google_places_autocomplete"><img src="https://img.shields.io/github/stars/dev-juju/flutter_google_places_autocomplete.svg?style=flat&logo=github&colorB=deeppink&label=stars" alt="Star on Github"></a>
-<a href="https://bmc.link/bomdi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25px"></a>
+<p>
+  <a href="https://codecov.io/gh/dev-juju/google_places_flutter_api"><img src="https://codecov.io/gh/dev-juju/google_places_flutter_api/branch/master/graph/badge.svg" alt="codecov"></a>
+  <a href="https://github.com/dev-juju/google_places_flutter_api"><img src="https://img.shields.io/github/stars/dev-juju/google_places_flutter_api.svg?style=flat&logo=github&colorB=deeppink&label=stars" alt="Star on Github"></a>
+  <a href="https://bmc.link/bomdi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25px"></a>
 </p>
 
 Google places autocomplete widgets for flutter.
@@ -18,7 +17,7 @@ In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
 dependencies:
-  flutter_google_places_autocomplete: <latest_version>
+  google_places_flutter_api: <latest_version>
 ```
 
 ## Usage
@@ -53,4 +52,4 @@ Prediction p = await PlacesAutocomplete.show(
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/dev-juju/flutter_google_places_autocomplete/issues/new
+[tracker]: https://github.com/dev-juju/google_places_flutter_api/issues/new
