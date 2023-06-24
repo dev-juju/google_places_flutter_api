@@ -1,7 +1,7 @@
 name: google_places_flutter_api
 description: Google places autocomplete customizable widget for flutter. Dart 3 compatible.
-version: 1.0.1
-repository: https://github.com/fluttercommunity/google_places_flutter_api
+version: 1.0.2
+repository: https://github.com/dev-juju/google_places_flutter_api
 homepage: https://github.com/dev-juju/google_places_flutter_api
 
 environment:
